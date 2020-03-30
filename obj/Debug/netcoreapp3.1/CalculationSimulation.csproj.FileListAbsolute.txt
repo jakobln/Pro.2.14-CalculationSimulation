@@ -1,0 +1,11 @@
+C:\Code\Pro.2.14 - CalculationSimulation\bin\Debug\netcoreapp3.1\CalculationSimulation.exe
+C:\Code\Pro.2.14 - CalculationSimulation\bin\Debug\netcoreapp3.1\CalculationSimulation.deps.json
+C:\Code\Pro.2.14 - CalculationSimulation\bin\Debug\netcoreapp3.1\CalculationSimulation.runtimeconfig.json
+C:\Code\Pro.2.14 - CalculationSimulation\bin\Debug\netcoreapp3.1\CalculationSimulation.runtimeconfig.dev.json
+C:\Code\Pro.2.14 - CalculationSimulation\bin\Debug\netcoreapp3.1\CalculationSimulation.dll
+C:\Code\Pro.2.14 - CalculationSimulation\bin\Debug\netcoreapp3.1\CalculationSimulation.pdb
+C:\Code\Pro.2.14 - CalculationSimulation\obj\Debug\netcoreapp3.1\CalculationSimulation.csprojAssemblyReference.cache
+C:\Code\Pro.2.14 - CalculationSimulation\obj\Debug\netcoreapp3.1\CalculationSimulation.AssemblyInfoInputs.cache
+C:\Code\Pro.2.14 - CalculationSimulation\obj\Debug\netcoreapp3.1\CalculationSimulation.AssemblyInfo.cs
+C:\Code\Pro.2.14 - CalculationSimulation\obj\Debug\netcoreapp3.1\CalculationSimulation.dll
+C:\Code\Pro.2.14 - CalculationSimulation\obj\Debug\netcoreapp3.1\CalculationSimulation.pdb
